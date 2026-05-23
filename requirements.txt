@@ -1,0 +1,4 @@
+sqlglot
+rich
+psycopg2-binary
+pytest
